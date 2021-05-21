@@ -7,20 +7,14 @@
             "rating": 3.759493589401245,
             "ratingCount": 79,
             "discount": 210,
+            "searchImage": "http://assets.myntassets.com/assets/images/productimage/2020/9/23/ff74c6fe-a5df-46da-a6bf-d97dcb6539c61600814089832-1.jpg",
             "brand": "CDI",
-            "images": [
-                {
-                    "view": "default",
-                    "src": "http://assets.myntassets.com/assets/images/productimage/2020/9/23/ff74c6fe-a5df-46da-a6bf-d97dcb6539c61600814089832-1.jpg"
-                }
-            ],
             "gender": "Unisex",
             "primaryColour": "Multi",
             "additionalInfo": "Pack Of 4 Soup Cups",
             "category": "Cups and Mugs",
             "mrp": 1050,
             "price": 840,
-            "colorVariantAvailable": false,
             "season": "Summer",
             "year": "2020"
         },
@@ -32,20 +26,7 @@
             "ratingCount": 29,
             "discount": 601,
             "brand": "White Gold",
-            "inventoryInfo": [
-                {
-                    "skuId": 38811686,
-                    "label": "Onesize",
-                    "inventory": 64,
-                    "available": true
-                }
-            ],
-            "images": [
-                {
-                    "view": "default",
-                    "src": "http://assets.myntassets.com/assets/images/productimage/2019/12/24/a8ad9995-dc4d-4ea9-98f6-5050780271f91577139079520-1.jpg"
-                }
-            ],
+            "searchImage": "http://assets.myntassets.com/assets/images/productimage/2019/12/24/a8ad9995-dc4d-4ea9-98f6-5050780271f91577139079520-1.jpg",
             "gender": "Unisex",
             "primaryColour": "Multi",
             "additionalInfo": "Set of 3 Printed Cup Set",
@@ -54,6 +35,24 @@
             "price": 979,
             "season": "Winter",
             "year": "2020"
+        },
+        {
+            "productId": 13700844,
+            "product": "White Gold 4 Pieces White \u0026 Grey Printed Porcelain Cups",
+            "productName": "White Gold 4 Pieces White \u0026 Grey Printed Porcelain Cups",
+            "rating": 0,
+            "ratingCount": 0,
+            "discount": 981,
+            "brand": "White Gold",
+            "searchImage": "http://assets.myntassets.com/assets/images/productimage/2021/2/17/826e4083-5115-4c88-99a8-67251d756c7f1613559283421-1.jpg",
+            "gender": "Unisex",
+            "primaryColour": "White",
+            "additionalInfo": "4 Pieces Porcelain Cups",
+            "category": "Cups and Mugs",
+            "mrp": 2280,
+            "price": 1299,
+            "season": "Summer",
+            "year": "2021"
         }
     ]
 }
