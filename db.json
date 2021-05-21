@@ -6,14 +6,13 @@
             "productName": "CDI Pack Of 4 Ceramic Printed Soup Cups 300 ml",
             "rating": 3.759493589401245,
             "ratingCount": 79,
-            "discount": 210,
+            "discount": 20,
             "searchImage": "http://assets.myntassets.com/assets/images/productimage/2020/9/23/ff74c6fe-a5df-46da-a6bf-d97dcb6539c61600814089832-1.jpg",
             "brand": "CDI",
             "primaryColour": "Multi",
             "additionalInfo": "Pack Of 4 Soup Cups",
             "category": "Cups and Mugs",
-            "mrp": 1050,
-            "price": 840
+            "mrp": 1050
         },
         {
             "productId": 11224336,
@@ -21,14 +20,13 @@
             "productName": "White Gold Set of 3 Multicoloured Printed Porcelain Cup Set 350 ml",
             "rating": 3.8620688915252686,
             "ratingCount": 29,
-            "discount": 601,
+            "discount": 38,
             "brand": "White Gold",
             "searchImage": "http://assets.myntassets.com/assets/images/productimage/2019/12/24/a8ad9995-dc4d-4ea9-98f6-5050780271f91577139079520-1.jpg",
             "primaryColour": "Multi",
             "additionalInfo": "Set of 3 Printed Cup Set",
             "category": "Cups and Mugs",
-            "mrp": 1580,
-            "price": 979
+            "mrp": 1580
         },
         {
             "productId": 13700844,
@@ -36,14 +34,13 @@
             "productName": "White Gold 4 Pieces White \u0026 Grey Printed Porcelain Cups",
             "rating": 0,
             "ratingCount": 0,
-            "discount": 981,
+            "discount": 43,
             "brand": "White Gold",
             "searchImage": "http://assets.myntassets.com/assets/images/productimage/2021/2/17/826e4083-5115-4c88-99a8-67251d756c7f1613559283421-1.jpg",
             "primaryColour": "White",
             "additionalInfo": "4 Pieces Porcelain Cups",
             "category": "Cups and Mugs",
-            "mrp": 2280,
-            "price": 1299
+            "mrp": 2280
         },
         {
             "productId": 12818918,
@@ -51,14 +48,13 @@
             "productName": "GOODHOMES Set Of 6 Transparent Solid Glass Cups",
             "rating": 3.9000000953674316,
             "ratingCount": 20,
-            "discount": 408,
+            "discount": 48,
             "brand": "GOODHOMES",
             "searchImage": "http://assets.myntassets.com/assets/images/productimage/2020/10/23/11c212cc-cda0-4070-932e-d32416ff40301603403113658-1.jpg",
             "primaryColour": "Transparent",
             "additionalInfo": "Set Of 6 Glass Cups",
             "category": "Cups and Mugs",
-            "mrp": 850,
-            "price": 442
+            "mrp": 850
         },
         {
             "productId": 12347874,
@@ -72,8 +68,7 @@
             "primaryColour": "Sea Green",
             "additionalInfo": "4-Pieces Bone China Mug Set",
             "category": "Cups and Mugs",
-            "mrp": 995,
-            "price": 995
+            "mrp": 995
         },
         {
             "productId": 14013362,
@@ -87,8 +82,7 @@
             "primaryColour": "Teal",
             "additionalInfo": "Ceramic Mugs Set",
             "category": "Cups and Mugs",
-            "mrp": 1275,
-            "price": 1274
+            "mrp": 1275
         },
         {
             "productId": 9359811,
@@ -96,14 +90,69 @@
             "productName": "GOODHOMES Off-White \u0026 Blue 4-Pieces Printed Bone China Cups Set",
             "rating": 4.169811248779297,
             "ratingCount": 159,
-            "discount": 132,
+            "discount": 18,
             "brand": "GOODHOMES",
             "searchImage": "http://assets.myntassets.com/assets/images/productimage/2019/4/18/7092f4cd-4fab-404e-b4cf-39af54b27fd31555534696672-1.jpg",
             "primaryColour": "Off White",
             "additionalInfo": "4 Pieces Bone China Cups Set",
             "category": "Cups and Mugs",
-            "mrp": 732,
-            "price": 600
+            "mrp": 732
+        },
+        {
+            "productId": 12361438,
+            "product": "SONAKI Green 4 Pcs Printed Bone China Mug Set",
+            "productName": "SONAKI Green 4 Pcs Printed Bone China Mug Set",
+            "rating": 4.567567348480225,
+            "ratingCount": 37,
+            "discount": 28,
+            "brand": "SONAKI",
+            "searchImage": "http://assets.myntassets.com/assets/images/productimage/2020/8/26/93415699-4cb9-42dd-a381-7da0d9270e141598393980693-1.jpg",
+            "primaryColour": "Green",
+            "additionalInfo": "4 Pcs Bone China Mug Set",
+            "category": "Cups and Mugs",
+            "mrp": 750
+        },
+        {
+            "productId": 11895576,
+            "product": "GOODHOMES Transparent 6-Pieces Solid Glass Mugs Set 310 ml each",
+            "productName": "GOODHOMES Transparent 6-Pieces Solid Glass Mugs Set 310 ml each",
+            "rating": 4.363636493682861,
+            "ratingCount": 11,
+            "discount": 28,
+            "brand": "GOODHOMES",
+            "searchImage": "http://assets.myntassets.com/assets/images/11895576/2020/6/1/67f3827a-73a5-4eea-bb0c-282dd28aa0831590991444405LUCKYGlassBeerMugsSetof6pcs1.jpg",
+            "primaryColour": "Transparent",
+            "additionalInfo": "6 Pieces Glass Mugs Set",
+            "category": "Cups and Mugs",
+            "mrp": 702
+        },
+        {
+            "productId": 11465198,
+            "product": "SONAKI Set of 6 White Bone China Tea Cups With 24K Gold Print",
+            "productName": "SONAKI Set of 6 White Bone China Tea Cups With 24K Gold Print",
+            "rating": 3.700000047683716,
+            "ratingCount": 20,
+            "discount": 28,
+            "brand": "SONAKI",
+            "searchImage": "http://assets.myntassets.com/assets/images/productimage/2020/2/6/6cdd39a0-f624-4206-a209-338e0d2278321580942277289-1.jpg",
+            "primaryColour": "White",
+            "additionalInfo": "Set of 6 Bone China Tea Cups With 24K Gold Print",
+            "category": "Cups and Mugs",
+            "mrp": 740
+        },
+        {
+            "productId": 11141602,
+            "product": "White Gold Set of 6 Multicoloured Cups with Spoons",
+            "productName": "White Gold Set of 6 Multicoloured Cups with Spoons",
+            "rating": 4.418604850769043,
+            "ratingCount": 43,
+            "discount": 38,
+            "brand": "White Gold",
+            "searchImage": "http://assets.myntassets.com/assets/images/productimage/2019/12/10/eab7218e-8a13-4d2e-b0d2-b67111f49fee1575928503944-1.jpg",
+            "primaryColour": "Multi",
+            "additionalInfo": "Set of 6 Cups with Spoons",
+            "category": "Cups and Mugs",
+            "mrp": 3285
         }
     ]
 }
