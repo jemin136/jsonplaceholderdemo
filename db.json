@@ -153,6 +153,48 @@
             "additionalInfo": "Set of 6 Cups with Spoons",
             "category": "Cups and Mugs",
             "mrp": 3285
+        },
+        {
+            "productId": 12814426,
+            "product": "White Gold White Porcelain 6-Pieces Textured Tea Cup Set",
+            "productName": "White Gold White Porcelain 6-Pieces Textured Tea Cup Set",
+            "rating": 4.666666507720947,
+            "ratingCount": 3,
+            "discount": 38,
+            "brand": "White Gold",
+            "searchImage": "http://assets.myntassets.com/assets/images/productimage/2020/10/22/4cd38691-67a4-45b8-a5da-3e1f43bc999a1603315966102-1.jpg",
+            "primaryColour": "White",
+            "additionalInfo": "6-Pieces Textured Tea Cup Set",
+            "category": "Cups and Mugs",
+            "mrp": 1959
+        },
+        {
+            "productId": 12037212,
+            "product": "CDI Unisex Set Of 6 Gold-Coloured Tyre Print Tea Coffee Mugs With Brown Wooden Tray",
+            "productName": "CDI Unisex Set Of 6 Gold-Coloured Tyre Print Tea Coffee Mugs With Brown Wooden Tray",
+            "rating": 4.218181610107422,
+            "ratingCount": 55,
+            "discount": 20,
+            "brand": "CDI",
+            "searchImage": "http://assets.myntassets.com/assets/images/productimage/2020/7/4/0b57174e-9f92-440c-be62-06bc152622f91593816805480-1.jpg",
+            "primaryColour": "Gold",
+            "additionalInfo": "Set Of 6 Tyre Print Tea Coffee Mugs With Tray",
+            "category": "Cups and Mugs",
+            "mrp": 1200
+        },
+        {
+            "productId": 9766755,
+            "product": "Pasabahce Set of 4 Glass Irish Coffee Mugs 270 ml",
+            "productName": "Pasabahce Set of 4 Glass Irish Coffee Mugs 270 ml",
+            "rating": 4.4285712242126465,
+            "ratingCount": 28,
+            "discount": 0,
+            "brand": "Pasabahce",
+            "searchImage": "http://assets.myntassets.com/assets/images/9766755/2019/5/22/36e45868-70a2-49ba-acc4-a7a51193af7b1558506394875-Pasabahce-Irish-Coffee-Mug-270ML-Set-of-4-6971558506394541-1.jpg",
+            "primaryColour": "Transparent",
+            "additionalInfo": "Set of 4 Irish Coffee Mugs",
+            "category": "Cups and Mugs",
+            "mrp": 1035
         }
     ]
 }
