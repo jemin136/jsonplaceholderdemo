@@ -9,14 +9,11 @@
             "discount": 210,
             "searchImage": "http://assets.myntassets.com/assets/images/productimage/2020/9/23/ff74c6fe-a5df-46da-a6bf-d97dcb6539c61600814089832-1.jpg",
             "brand": "CDI",
-            "gender": "Unisex",
             "primaryColour": "Multi",
             "additionalInfo": "Pack Of 4 Soup Cups",
             "category": "Cups and Mugs",
             "mrp": 1050,
-            "price": 840,
-            "season": "Summer",
-            "year": "2020"
+            "price": 840
         },
         {
             "productId": 11224336,
@@ -27,14 +24,11 @@
             "discount": 601,
             "brand": "White Gold",
             "searchImage": "http://assets.myntassets.com/assets/images/productimage/2019/12/24/a8ad9995-dc4d-4ea9-98f6-5050780271f91577139079520-1.jpg",
-            "gender": "Unisex",
             "primaryColour": "Multi",
             "additionalInfo": "Set of 3 Printed Cup Set",
             "category": "Cups and Mugs",
             "mrp": 1580,
-            "price": 979,
-            "season": "Winter",
-            "year": "2020"
+            "price": 979
         },
         {
             "productId": 13700844,
@@ -45,14 +39,11 @@
             "discount": 981,
             "brand": "White Gold",
             "searchImage": "http://assets.myntassets.com/assets/images/productimage/2021/2/17/826e4083-5115-4c88-99a8-67251d756c7f1613559283421-1.jpg",
-            "gender": "Unisex",
             "primaryColour": "White",
             "additionalInfo": "4 Pieces Porcelain Cups",
             "category": "Cups and Mugs",
             "mrp": 2280,
-            "price": 1299,
-            "season": "Summer",
-            "year": "2021"
+            "price": 1299
         },
         {
             "productId": 12818918,
@@ -63,14 +54,11 @@
             "discount": 408,
             "brand": "GOODHOMES",
             "searchImage": "http://assets.myntassets.com/assets/images/productimage/2020/10/23/11c212cc-cda0-4070-932e-d32416ff40301603403113658-1.jpg",
-            "gender": "Unisex",
             "primaryColour": "Transparent",
             "additionalInfo": "Set Of 6 Glass Cups",
             "category": "Cups and Mugs",
             "mrp": 850,
-            "price": 442,
-            "season": "Winter",
-            "year": "2020"
+            "price": 442
         },
         {
             "productId": 12347874,
@@ -81,14 +69,41 @@
             "discount": 0,
             "brand": "Chumbak",
             "searchImage": "http://assets.myntassets.com/assets/images/productimage/2020/8/26/96e2939c-dcbc-44b1-b0eb-91b63559499d1598395900433-1.jpg",
-            "gender": "Unisex",
             "primaryColour": "Sea Green",
             "additionalInfo": "4-Pieces Bone China Mug Set",
             "category": "Cups and Mugs",
             "mrp": 995,
-            "price": 995,
-            "season": "Winter",
-            "year": "2019"
+            "price": 995
+        },
+        {
+            "productId": 14013362,
+            "product": "A Vintage Affair- Home Decor Teal \u0026 Gold-TonedPrinted Ceramic Mugs Set",
+            "productName": "A Vintage Affair- Home Decor Teal \u0026 Gold-TonedPrinted Ceramic Mugs Set",
+            "rating": 0,
+            "ratingCount": 0,
+            "discount": 1,
+            "brand": "A Vintage Affair- Home Decor",
+            "searchImage": "http://assets.myntassets.com/assets/images/productimage/2021/4/1/c37b201a-ef1b-4f83-b226-176ff52851821617268460866-1.jpg",
+            "primaryColour": "Teal",
+            "additionalInfo": "Ceramic Mugs Set",
+            "category": "Cups and Mugs",
+            "mrp": 1275,
+            "price": 1274
+        },
+        {
+            "productId": 9359811,
+            "product": "GOODHOMES Off-White \u0026 Blue 4-Pieces Printed Bone China Cups Set",
+            "productName": "GOODHOMES Off-White \u0026 Blue 4-Pieces Printed Bone China Cups Set",
+            "rating": 4.169811248779297,
+            "ratingCount": 159,
+            "discount": 132,
+            "brand": "GOODHOMES",
+            "searchImage": "http://assets.myntassets.com/assets/images/productimage/2019/4/18/7092f4cd-4fab-404e-b4cf-39af54b27fd31555534696672-1.jpg",
+            "primaryColour": "Off White",
+            "additionalInfo": "4 Pieces Bone China Cups Set",
+            "category": "Cups and Mugs",
+            "mrp": 732,
+            "price": 600
         }
     ]
 }
