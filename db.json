@@ -8,10 +8,6 @@
             "ratingCount": 79,
             "discount": 210,
             "brand": "CDI",
-            "searchImage": "http://assets.myntassets.com/assets/images/productimage/2020/9/23/ff74c6fe-a5df-46da-a6bf-d97dcb6539c61600814089832-1.jpg",
-            "relatedStylesCount": 0,
-            "relatedStylesType": "",
-            "productVideos": [],
             "images": [
                 {
                     "view": "default",
@@ -26,6 +22,37 @@
             "price": 840,
             "colorVariantAvailable": false,
             "season": "Summer",
+            "year": "2020"
+        },
+        {
+            "productId": 11224336,
+            "product": "White Gold Set of 3 Multicoloured Printed Porcelain Cup Set 350 ml",
+            "productName": "White Gold Set of 3 Multicoloured Printed Porcelain Cup Set 350 ml",
+            "rating": 3.8620688915252686,
+            "ratingCount": 29,
+            "discount": 601,
+            "brand": "White Gold",
+            "inventoryInfo": [
+                {
+                    "skuId": 38811686,
+                    "label": "Onesize",
+                    "inventory": 64,
+                    "available": true
+                }
+            ],
+            "images": [
+                {
+                    "view": "default",
+                    "src": "http://assets.myntassets.com/assets/images/productimage/2019/12/24/a8ad9995-dc4d-4ea9-98f6-5050780271f91577139079520-1.jpg"
+                }
+            ],
+            "gender": "Unisex",
+            "primaryColour": "Multi",
+            "additionalInfo": "Set of 3 Printed Cup Set",
+            "category": "Cups and Mugs",
+            "mrp": 1580,
+            "price": 979,
+            "season": "Winter",
             "year": "2020"
         }
     ]
