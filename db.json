@@ -1,93 +1,32 @@
 {
     "products": [
         {
-            "landingPageUrl": "Cups-and-Mugs/CDI/CDI-Pack-Of-4-Ceramic-Printed-Soup-Cups-300-ml/12531614/buy",
-            "loyaltyPointsEnabled": false,
-            "adId": "",
-            "isPLA": false,
             "productId": 12531614,
             "product": "CDI Pack Of 4 Ceramic Printed Soup Cups 300 ml",
             "productName": "CDI Pack Of 4 Ceramic Printed Soup Cups 300 ml",
             "rating": 3.759493589401245,
             "ratingCount": 79,
-            "isFastFashion": false,
-            "futureDiscountedPrice": 0,
-            "futureDiscountStartDate": "",
             "discount": 210,
             "brand": "CDI",
             "searchImage": "http://assets.myntassets.com/assets/images/productimage/2020/9/23/ff74c6fe-a5df-46da-a6bf-d97dcb6539c61600814089832-1.jpg",
-            "effectiveDiscountPercentageAfterTax": 0,
-            "effectiveDiscountAmountAfterTax": 0,
-            "buyButtonWinnerSkuId": 43688066,
-            "buyButtonWinnerSellerPartnerId": 6397,
             "relatedStylesCount": 0,
             "relatedStylesType": "",
             "productVideos": [],
-            "inventoryInfo": [
-                {
-                    "skuId": 43688066,
-                    "label": "Onesize",
-                    "inventory": 247,
-                    "available": true
-                }
-            ],
-            "sizes": "Onesize",
             "images": [
                 {
                     "view": "default",
                     "src": "http://assets.myntassets.com/assets/images/productimage/2020/9/23/ff74c6fe-a5df-46da-a6bf-d97dcb6539c61600814089832-1.jpg"
-                },
-                {
-                    "view": "search",
-                    "src": "http://assets.myntassets.com/assets/images/productimage/2020/9/23/ff74c6fe-a5df-46da-a6bf-d97dcb6539c61600814089832-1.jpg"
-                },
-                {
-                    "view": "size_representation",
-                    "src": ""
-                },
-                {
-                    "view": "back",
-                    "src": "http://assets.myntassets.com/assets/images/productimage/2020/9/23/02d711d1-5145-48a8-8c8f-d681fbd5ed911600814089929-3.jpg"
-                },
-                {
-                    "view": "front",
-                    "src": "http://assets.myntassets.com/assets/images/productimage/2020/9/23/74d5c68d-ea64-4d5e-9a58-3456bca0945a1600814089878-2.jpg"
                 }
             ],
             "gender": "Unisex",
             "primaryColour": "Multi",
-            "discountLabel": "Flat_Search_Percent",
-            "discountDisplayLabel": "(20% OFF)",
             "additionalInfo": "Pack Of 4 Soup Cups",
             "category": "Cups and Mugs",
             "mrp": 1050,
             "price": 840,
-            "advanceOrderTag": "",
             "colorVariantAvailable": false,
-            "productimagetag": "",
-            "listViews": 0,
-            "discountType": "1",
-            "tdBxGyText": "",
-            "catalogDate": "1600905600000",
             "season": "Summer",
-            "year": "2020",
-            "isPersonalised": false,
-            "eorsPicksTag": "",
-            "personalizedCoupon": "",
-            "personalizedCouponValue": 0,
-            "productMeta": "",
-            "systemAttributes": [
-                {
-                    "attribute": "SA_XT_BESTSELLER",
-                    "value": "BESTSELLER"
-                },
-                {
-                    "attribute": "SA_XT_PICWORTHY",
-                    "value": "PIC-WORTHY"
-                }
-            ],
-            "attributeTagsPriorityList": [],
-            "preferredDeliveryTag": ""
+            "year": "2020"
         }
     ]
 }
