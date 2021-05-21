@@ -53,6 +53,24 @@
             "price": 1299,
             "season": "Summer",
             "year": "2021"
+        },
+        {
+            "productId": 12818918,
+            "product": "GOODHOMES Set Of 6 Transparent Solid Glass Cups",
+            "productName": "GOODHOMES Set Of 6 Transparent Solid Glass Cups",
+            "rating": 3.9000000953674316,
+            "ratingCount": 20,
+            "discount": 408,
+            "brand": "GOODHOMES",
+            "searchImage": "http://assets.myntassets.com/assets/images/productimage/2020/10/23/11c212cc-cda0-4070-932e-d32416ff40301603403113658-1.jpg",
+            "gender": "Unisex",
+            "primaryColour": "Transparent",
+            "additionalInfo": "Set Of 6 Glass Cups",
+            "category": "Cups and Mugs",
+            "mrp": 850,
+            "price": 442,
+            "season": "Winter",
+            "year": "2020"
         }
     ]
 }
