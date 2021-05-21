@@ -71,6 +71,24 @@
             "price": 442,
             "season": "Winter",
             "year": "2020"
+        },
+        {
+            "productId": 12347874,
+            "product": "Chumbak Teal Green Printed 4-Pieces Bone China Mug Set",
+            "productName": "Chumbak Teal Green Printed 4-Pieces Bone China Mug Set",
+            "rating": 5,
+            "ratingCount": 4,
+            "discount": 0,
+            "brand": "Chumbak",
+            "searchImage": "http://assets.myntassets.com/assets/images/productimage/2020/8/26/96e2939c-dcbc-44b1-b0eb-91b63559499d1598395900433-1.jpg",
+            "gender": "Unisex",
+            "primaryColour": "Sea Green",
+            "additionalInfo": "4-Pieces Bone China Mug Set",
+            "category": "Cups and Mugs",
+            "mrp": 995,
+            "price": 995,
+            "season": "Winter",
+            "year": "2019"
         }
     ]
 }
